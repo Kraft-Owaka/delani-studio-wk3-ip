@@ -1,5 +1,24 @@
 body{
-    background-image:url('image/h_img.jpg')
+    overflow-wrap: hidden;
+    font-family: 'Lato', sans-serif;
+    color: white;
+
+}
+/* background screen image css*/
+.container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.hero {
+    width: 100%;
+    height: 100%;
+    background: url("../image/h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 

@@ -1,17 +1,20 @@
+@import url('http://fonts.googleap.com/css?family=lato:400,700');
 *{ 
     margin: 0;
     padding: 0;
 }
 body{
-    overflow-wrap: hidden;
+    overflow-x: hidden;
     font-family: 'Lato', sans-serif;
     color: black;
 
 }
 #logo {
+    color: black;
+    background-color: aqua;
     
 }
-.container{
+.home{
     position: absolute;
     text-align: center;
     font-family: sans-serif;
@@ -30,10 +33,12 @@ h1{
     transform: translateX(-50%) translateY(-50%);
     font-family: Pacifico, Calibre;
     font-size: 3em;
+    color: #fff;
+    text-align: center;
     
 }
 /* background screen image css*/
-.container {
+.conainer {
     position: absolute;
     left: 0;
     top: 0;
@@ -48,7 +53,13 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
    }
-
+   #img {
+    background: url("image/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+   
 
 
 

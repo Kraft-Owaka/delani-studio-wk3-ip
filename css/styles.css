@@ -11,6 +11,18 @@ body{
 #logo {
     
 }
+.container{
+    position: absolute;
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff;
+    top: 160px;
+    
+}
+p {
+    color: black;
+    text-align: center;
+}
 h1{
     position: absolute;
     left: 50%;
@@ -18,6 +30,7 @@ h1{
     transform: translateX(-50%) translateY(-50%);
     font-family: Pacifico, Calibre;
     font-size: 3em;
+    
 }
 /* background screen image css*/
 .container {

@@ -1,3 +1,24 @@
 body{
     background-image:url('image/h_img.jpg')
 }
+
+
+
+
+
+
+
+
+
+
+/*=======BOOTSTRAP BREAK POINT:
+Extra small (xs devices ()phones, less than 576px)
+no media query since this is the default in Bootstrap
+
+Small (sm) device (landscape phone,576px and up)}
+@media(min-width: 576px)
+
+Medium (md)devices (tablets, 768px and up)
+@media (min-width: 768px) 
+
+Large (lg) devices (desktop, 992px and up)

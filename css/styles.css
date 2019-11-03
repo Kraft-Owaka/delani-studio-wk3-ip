@@ -48,22 +48,18 @@ h1{
 #image {
     width: 100%;
     height: 100%;
-    background: url("image/h_img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
    }
-   #img {
-    background: url("image/s_image.jpg");
+.p {
+    width: 100%;
+    display:block;
+    text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
    }
-   
-
-
-
-
 
 
 

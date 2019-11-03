@@ -79,8 +79,23 @@ body{
 }
 .form_input{
     width: 400px !important;
+    margin-bottom: 20px;
+}
+#contact-us{
+    background-image: url("../image/c_image.jpg");
+}
+.form{
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    zoom: 1;
+}
+.contact-us{
+    height: 380px !important;
 }
 
+.footer > ul >li{
+    display: inline;
+}
 
 /*=======BOOTSTRAP BREAK POINT:
 Extra small (xs devices ()phones, less than 576px)

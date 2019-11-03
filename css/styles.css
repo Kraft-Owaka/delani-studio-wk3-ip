@@ -71,7 +71,15 @@ body{
 .icondiv > h2 {
     text-align: center;
 }
-
+.col-md-3 {
+    padding: 15px;
+}
+.col-md-3 > img{
+    width: 200px;
+}
+.form_input{
+    width: 300px !important;
+}
 
 
 /*=======BOOTSTRAP BREAK POINT:

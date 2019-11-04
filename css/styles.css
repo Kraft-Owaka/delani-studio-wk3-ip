@@ -72,9 +72,13 @@ body{
 .col-md-3 {
     padding: 15px;
 }
+.col-md-3:hover {
+    opacity: 0.3;
+}
 .col-md-3 > img{
     width: 200px;
 }
+
 .form_input{
     width: 400px !important;
     margin-bottom: 20px;

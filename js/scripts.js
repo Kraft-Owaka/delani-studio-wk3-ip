@@ -12,7 +12,7 @@ $(document).ready(function() {
     });
   });
   $(document).ready(function() {
-    $(".clickable2").click(function() {
+    $(".clickable3").click(function() {
         $(".product-hidden").toggle();
         $(".product-showing").toggle();
     });

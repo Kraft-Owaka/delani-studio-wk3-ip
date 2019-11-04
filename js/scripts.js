@@ -1,5 +1,3 @@
-$(document).ready(function() {
-    $().click(function() {
-        $("img").show();
-    });
-});
+$(".clickable").click(function() {
+$("img") .slideToggle("fast")
+}   

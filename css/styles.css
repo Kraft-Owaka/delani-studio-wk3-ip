@@ -28,21 +28,23 @@ body{
 .title{
     position: relative;
     top: 80px;
-    left: 500px;
+    /* left: 500px; */
+    text-align: center;
 }
 #subheading{
     position: relative;
-    left: -100px;
+    /* left: -100px; */
 }
 .paragraph{
     position: relative;
     top: 80px;
-    left: 320px;
+    /* left: 320px; */
+    text-align: center;
 }
 .mouse {
     position: relative;
     top: 210px;
-    left: 580px;
+    margin-left: 50%;
 }
 .section-a{
     position: relative;
@@ -94,16 +96,36 @@ body{
 .contact-us{
     height: 380px !important;
 }
-
-.footer > ul >li{
-    display: inline;
-    position: relative;
-    margin-top: 5px !important;
-}
 .button{
     position:relative;
     background-color: white;
+        margin-left: 43%;
 }
+.footer > ul >li{
+    display: inline;
+    position: relative;
+    margin-left: 1%;
+    position: relative;
+}
+.end {
+    margin-left: 19%;
+    color: black;
+    text-align: center;
+}
+.footer {
+    margin-left: 25%;
+
+}
+.design-hidden {
+    display: none;
+}
+.development-hidden {
+    display: none;
+}
+.product-hidden {
+    display: none;
+}
+
 
 
 /*=======BOOTSTRAP BREAK POINT:

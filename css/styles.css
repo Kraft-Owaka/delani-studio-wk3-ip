@@ -19,9 +19,6 @@ body{
     background-repeat:no-repeat;
     background-position: relative;    
 }
-#ab {
-
-}
 .logo {
     position: relative;
     left: 550px;
@@ -71,6 +68,7 @@ body{
 .icondiv > h2 {
     text-align: center;
 }
+/*css for the portfolio*/
 .col-md-3 {
     padding: 15px;
 }
@@ -95,7 +93,14 @@ body{
 
 .footer > ul >li{
     display: inline;
+    position: relative;
+    margin-top: 5px !important;
 }
+.button{
+    position:relative;
+    background-color: white;
+}
+
 
 /*=======BOOTSTRAP BREAK POINT:
 Extra small (xs devices ()phones, less than 576px)

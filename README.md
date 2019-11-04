@@ -1,9 +1,6 @@
-# Week 3
- A redesigned we application modeled after the Delani studion. Where Amazing people are making amazing designs in a fun environment.
-### 4-11-2019
-### 
-## Description 
-This project is designed to recemble the Delani studio project frovided as an assignment.
+# Description 
+This is a redesigned web application modeled after the Delani studion."Where Amazing people are making amazing designs in a fun environment."
+This project is designed to resemble the Delani studio project provided as a friday weekend assignment.
 ## Requirement
 * Have access to device that is connected to the internet. 
 ## Development 
